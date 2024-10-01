@@ -1,0 +1,38 @@
+{
+  "name": "hsl-to-hex-cli",
+  "version": "1.0.0",
+  "description": "hsl to hex in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/hsl-to-hex-cli.git"
+  },
+  "keywords": [
+    "hex",
+    "hsl",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/hsl-to-hex-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/hsl-to-hex-cli#readme",
+  "bin": {
+    "hsl-to-hex-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
